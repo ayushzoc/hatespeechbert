@@ -10,9 +10,9 @@
 * Project was carried out to learn the deeper aspects of transformers and LLMs. 
 
 ### Resources:
-**Python**: 3.9.16
-**Packages**: Numpy, Pandas, Matplotlib, Regex, TQDM, Transformers (HuggingFace), Torch, Scikit-learn
-**Installing requirements**: pip install -r requirements.txt
+**Python**: 3.9.16\
+**Packages**: Numpy, Pandas, Matplotlib, Regex, TQDM, Transformers (HuggingFace), Torch, Scikit-learn\
+**Installing requirements**: pip install -r requirements.txt\
 **Dataset**: https://www.ims.uni-stuttgart.de/forschung/ressourcen/korpora/stance-hof/
 
 ### Data Cleaning:
